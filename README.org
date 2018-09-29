@@ -1,3 +1,6 @@
 * Scan2Doc
   - we shall use the readme to track issues and split tasks
 ** TODO test todo
+   #FIXME hi
+   - #FIXME hi
+** test another
