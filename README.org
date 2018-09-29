@@ -1,0 +1,2 @@
+* Scan2Doc
+  - we shall use the readme to track issues and split tasks
