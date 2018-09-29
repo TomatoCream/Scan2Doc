@@ -1,20 +1,21 @@
 
 # Table of Contents
 
-1.  [Scan2Doc](#org11a24bc)
-2.  [The plan](#orga74e3b0)
-3.  [Guidelines](#org1e90042)
-4.  [Tasks](#org3e3500c)
+1.  [Scan2Doc](#org3ac8f6c)
+2.  [The plan](#org99af250)
+3.  [Guidelines](#orgea59b9c)
+4.  [Links](#org699126d)
+5.  [Tasks](#org3158ad2)
 
 
-<a id="org11a24bc"></a>
+<a id="org3ac8f6c"></a>
 
 # Scan2Doc
 
 -   we shall use the readme to track issues and split tasks
 
 
-<a id="orga74e3b0"></a>
+<a id="org99af250"></a>
 
 # The plan
 
@@ -24,7 +25,7 @@ people to write a neural network model.
 we shall split the task.
 
 
-<a id="org1e90042"></a>
+<a id="orgea59b9c"></a>
 
 # Guidelines
 
@@ -33,7 +34,15 @@ and global variables. therefore we can easily modularise each part
 and switch around as quickly as possible.
 
 
-<a id="org3e3500c"></a>
+<a id="org699126d"></a>
+
+# Links
+
+-   Neural Network Resources
+    -   <http://course.fast.ai/lessons/lesson1.html>
+
+
+<a id="org3158ad2"></a>
 
 # Tasks
 

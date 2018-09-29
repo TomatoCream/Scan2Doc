@@ -9,6 +9,9 @@
   Ideally we should make it semi functional, i.e. reduce side effects
   and global variables. therefore we can easily modularise each part
   and switch around as quickly as possible.
+* Links
+  - Neural Network Resources
+    - http://course.fast.ai/lessons/lesson1.html
 * Tasks
   - Preprocessing
     - DONE YS Import images, surprisingly challenging since it is on
