@@ -27,14 +27,16 @@
     - NOTE After trying the performance on a simple model. We could
       try to use more complex models such as U-net. Its just a
       combination of Autoencoder and Resnet.
-    - NOTE we could combine a GAN and classifier to classify and
+    - *overkill* NOTE we could combine a GAN and classifier to classify and
       process at the same time. This classifier would provide hints to
       the network and performance should be better. Might be hard to
       train given limited data.
   - Data 
     - NOTE Since we only ripped out 217 images of data and this data
       is 3 years old, data might not be enough, we have not accounted
-      for many different forms of variations. For example.
+      for many different forms of variations. Please make the
+      transformation functional so we can easily compose them. For
+      example.
       - Different font
       - Different texts
       - Pen Marks
@@ -48,3 +50,9 @@
         - using template pictures(coffee stains...) and overlaying it
         - Generate fake ink marks
         - Generate creases on paper
+  - Make the actual scripts and algorithm to scale and cut up a real
+    world document to piece together a real world scanned.
+    document. 
+  - Report
+  - Video
+  - Presentation
